@@ -1,0 +1,333 @@
+{
+  "users": [
+    [
+      1,
+      {
+        "email": "olamilekanidowu998@gmail.com",
+        "password": "$2b$10$UBRTeWkw/FUKdxCa17IBXeaBX0SqqTgRQfw7xdH0ME8Oy3sq..MfG",
+        "displayName": "Horlapookie",
+        "bio": null,
+        "profilePicture": null,
+        "whatsappNumber": "2349122222622",
+        "id": 1,
+        "status": "member",
+        "isAdmin": false,
+        "isOnline": false,
+        "lastSeen": "2025-07-22T21:10:24.919Z",
+        "createdAt": "2025-07-22T21:01:07.486Z"
+      }
+    ],
+    [
+      2,
+      {
+        "email": "babatunde279346@gmail.com",
+        "password": "$2b$10$iF579rJLtJbiarHQHUvcm.gFUjvuNOL3gq8ZT/gzGIVjV9IpJWoC2",
+        "displayName": "Horlapookie",
+        "bio": null,
+        "profilePicture": null,
+        "whatsappNumber": null,
+        "id": 2,
+        "status": "member",
+        "isAdmin": false,
+        "isOnline": false,
+        "lastSeen": "2025-07-23T07:59:42.512Z",
+        "createdAt": "2025-07-23T07:22:11.498Z"
+      }
+    ],
+    [
+      3,
+      {
+        "email": "miasmaith12@gmail.com",
+        "password": "$2b$10$LU5JChWNjr5UznAfcap9dOpmNqKc2vPrynLo0d814BF7EwVCSd1.W",
+        "displayName": "Whatsapp-bot",
+        "bio": null,
+        "profilePicture": null,
+        "whatsappNumber": null,
+        "id": 3,
+        "status": "member",
+        "isAdmin": false,
+        "isOnline": false,
+        "lastSeen": "2025-07-23T08:41:55.796Z",
+        "createdAt": "2025-07-23T08:00:18.404Z"
+      }
+    ],
+    [
+      4,
+      {
+        "email": "allainacol@gmail.com",
+        "password": "$2b$10$/uc/mtmv6c2TYBmdqAWW6e6QQTD61KMi7als7p//oVpnSATrFhaiq",
+        "displayName": "Creator",
+        "profilePicture": "👑",
+        "bio": "App Creator & Administrator",
+        "whatsappNumber": null,
+        "id": 4,
+        "status": "royal",
+        "isAdmin": true,
+        "isOnline": false,
+        "lastSeen": "2025-07-23T12:35:17.650Z",
+        "createdAt": "2025-07-23T12:07:40.522Z"
+      }
+    ]
+  ],
+  "messages": [
+    [
+      1,
+      {
+        "id": 1,
+        "userId": 2,
+        "content": "Hello",
+        "likes": 2,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T07:58:52.669Z"
+      }
+    ],
+    [
+      2,
+      {
+        "id": 2,
+        "userId": 2,
+        "content": "Hello",
+        "likes": 1,
+        "hearts": 1,
+        "fires": 0,
+        "createdAt": "2025-07-23T07:59:34.498Z"
+      }
+    ],
+    [
+      3,
+      {
+        "id": 3,
+        "userId": 3,
+        "content": "Hi guys ",
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T08:00:27.827Z"
+      }
+    ],
+    [
+      4,
+      {
+        "id": 4,
+        "userId": 3,
+        "content": "Sup",
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T08:02:46.627Z"
+      }
+    ],
+    [
+      5,
+      {
+        "id": 5,
+        "userId": 3,
+        "content": "How is everything ",
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T08:02:52.147Z"
+      }
+    ],
+    [
+      6,
+      {
+        "id": 6,
+        "userId": 3,
+        "content": "Sup",
+        "likes": 0,
+        "hearts": 1,
+        "fires": 0,
+        "createdAt": "2025-07-23T08:19:22.344Z"
+      }
+    ],
+    [
+      7,
+      {
+        "id": 7,
+        "userId": 3,
+        "content": "How your side ",
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T08:39:45.970Z"
+      }
+    ],
+    [
+      8,
+      {
+        "id": 8,
+        "userId": 4,
+        "content": "Hello",
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T12:18:28.630Z"
+      }
+    ],
+    [
+      9,
+      {
+        "id": 9,
+        "userId": 4,
+        "content": "@horlapookie sup ",
+        "replyToId": null,
+        "mentionedUsers": [
+          "2"
+        ],
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T12:27:25.436Z"
+      }
+    ],
+    [
+      10,
+      {
+        "id": 10,
+        "userId": 4,
+        "content": "@Whatsapp-bot yoo",
+        "replyToId": null,
+        "mentionedUsers": null,
+        "likes": 0,
+        "hearts": 0,
+        "fires": 0,
+        "createdAt": "2025-07-23T12:30:54.907Z"
+      }
+    ]
+  ],
+  "reactions": [
+    [
+      1,
+      {
+        "id": 1,
+        "messageId": 1,
+        "userId": 2,
+        "type": "like"
+      }
+    ],
+    [
+      2,
+      {
+        "id": 2,
+        "messageId": 2,
+        "userId": 2,
+        "type": "like"
+      }
+    ],
+    [
+      4,
+      {
+        "id": 4,
+        "messageId": 6,
+        "userId": 4,
+        "type": "heart"
+      }
+    ],
+    [
+      5,
+      {
+        "id": 5,
+        "messageId": 1,
+        "userId": 4,
+        "type": "like"
+      }
+    ],
+    [
+      6,
+      {
+        "id": 6,
+        "messageId": 2,
+        "userId": 4,
+        "type": "heart"
+      }
+    ]
+  ],
+  "announcements": [
+    [
+      1,
+      {
+        "id": 1,
+        "content": "Welcome to the Royal Hacker Kingdom! 🏰 Join our WhatsApp channel for exclusive updates and connect with fellow hackers. Let's build something amazing together! 👑",
+        "createdAt": "2025-07-22T21:00:32.992Z",
+        "updatedAt": "2025-07-22T21:00:32.992Z"
+      }
+    ]
+  ],
+  "sessions": [
+    [
+      "172.31.84.162",
+      {
+        "id": 1,
+        "userId": null,
+        "ipAddress": "172.31.84.162",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "visitCount": 307,
+        "lastVisit": "2025-07-22T21:12:01.506Z"
+      }
+    ],
+    [
+      "127.0.0.1",
+      {
+        "id": 2,
+        "userId": null,
+        "ipAddress": "127.0.0.1",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/118.0.5993.88 Safari/537.36",
+        "visitCount": 578,
+        "lastVisit": "2025-07-23T12:31:26.831Z"
+      }
+    ],
+    [
+      "172.31.73.98",
+      {
+        "id": 3,
+        "userId": null,
+        "ipAddress": "172.31.73.98",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "visitCount": 182,
+        "lastVisit": "2025-07-23T06:18:33.601Z"
+      }
+    ],
+    [
+      "172.31.114.194",
+      {
+        "id": 4,
+        "userId": null,
+        "ipAddress": "172.31.114.194",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "visitCount": 330,
+        "lastVisit": "2025-07-23T07:24:13.679Z"
+      }
+    ],
+    [
+      "172.31.102.162",
+      {
+        "id": 5,
+        "userId": null,
+        "ipAddress": "172.31.102.162",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "visitCount": 920,
+        "lastVisit": "2025-07-23T08:41:23.661Z"
+      }
+    ],
+    [
+      "172.31.74.2",
+      {
+        "id": 6,
+        "userId": null,
+        "ipAddress": "172.31.74.2",
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+        "visitCount": 1241,
+        "lastVisit": "2025-07-23T12:36:32.123Z"
+      }
+    ]
+  ],
+  "counters": {
+    "currentUserId": 5,
+    "currentMessageId": 11,
+    "currentReactionId": 7,
+    "currentAnnouncementId": 1,
+    "currentSessionId": 7
+  }
+}
